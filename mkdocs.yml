@@ -79,6 +79,8 @@ nav:
     - 线性表: DataStructures/线性表.md
     - 栈和队列: DataStructures/栈和队列.md
     - 串、数组和广义表: DataStructures/串、数组和广义表.md
+    - 树和二叉树: DataStructures/树和二叉树.md
+    - 图: DataStructures/图.md
   - 算法:
     - 算法: Algorithms/index.md
   - Unix:
