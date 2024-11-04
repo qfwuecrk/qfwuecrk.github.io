@@ -69,10 +69,10 @@ nav:
     - 高等数学: FurtherMathematics/index.md
   - 计算机系统概论:
     - 计算机系统概论: CS/index.md
-  - C:
-    - C Programming Language: C/index.md
-  - CPP:
-    - Cpp Programming Language: CPP/index.md
+  - C/Cpp:
+    - C/Cpp: C_Cpp/index.md
+    - 基本结构: C_Cpp/基本结构.md
+    - 数据类型: C_Cpp/数据类型.md
   - 数据结构:
     - 数据结构: DataStructures/index.md
     - 概述: DataStructures/概述.md

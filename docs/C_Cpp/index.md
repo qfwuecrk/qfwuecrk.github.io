@@ -1,6 +1,6 @@
-# Cpp Programming Language 
+# C/C++
 
-## cpp 练习建议
+## C/C++ 练习建议
 
 | 专项练习名称 | 重点和建议 |
 |--|--|
