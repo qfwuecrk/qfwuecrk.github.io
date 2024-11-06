@@ -65,15 +65,31 @@ extra_css:
 nav:
   - 简介: 
     - 主页: index.md
+  - 高等数学:
+    - 高等数学: FurtherMathematics/index.md
   - 计算机系统概论:
-    - 计算机系统概论: CS/index.md
-  - C:
-    - C Programming Language: C/index.md
-  - CPP:
-    - Cpp Programming Language: CPP/index.md
+    - 计算机系统概论: ComputerScience/index.md
+    - 数制: ComputerScience/数制.md
+    - 数值存储: ComputerScience/数值存储.md
+    - 晶体管: ComputerScience/晶体管.md
+    - 门电路: ComputerScience/门电路.md
+    - 逻辑电路: ComputerScience/逻辑电路.md
+    - 微结构: ComputerScience/微结构.md
+    - ISA: ComputerScience/ISA.md
+    - 汇编: ComputerScience/汇编.md
+    - 高级语言: ComputerScience/高级语言.md
+  - C/Cpp:
+    - C/Cpp: C_Cpp/index.md
+    - 基本结构: C_Cpp/基本结构.md
+    - 数据类型: C_Cpp/数据类型.md
   - 数据结构:
     - 数据结构: DataStructures/index.md
     - 概述: DataStructures/概述.md
+    - 线性表: DataStructures/线性表.md
+    - 栈和队列: DataStructures/栈和队列.md
+    - 串、数组和广义表: DataStructures/串、数组和广义表.md
+    - 树和二叉树: DataStructures/树和二叉树.md
+    - 图: DataStructures/图.md
   - 算法:
     - 算法: Algorithms/index.md
   - Unix:
@@ -86,7 +102,5 @@ nav:
     - Python: Python/index.md
   - OpenGL:
     - OpenGL: OpenGL/index.md
-  - Math:
-    - Math: Math/index.md
   - English:
     - English: English/index.md
