@@ -68,7 +68,16 @@ nav:
   - 高等数学:
     - 高等数学: FurtherMathematics/index.md
   - 计算机系统概论:
-    - 计算机系统概论: CS/index.md
+    - 计算机系统概论: ComputerScience/index.md
+    - 数制: ComputerScience/数制.md
+    - 数值存储: ComputerScience/数值存储.md
+    - 晶体管: ComputerScience/晶体管.md
+    - 门电路: ComputerScience/门电路.md
+    - 逻辑电路: ComputerScience/逻辑电路.md
+    - 微结构: ComputerScience/微结构.md
+    - ISA: ComputerScience/ISA.md
+    - 汇编: ComputerScience/汇编.md
+    - 高级语言: ComputerScience/高级语言.md
   - C/Cpp:
     - C/Cpp: C_Cpp/index.md
     - 基本结构: C_Cpp/基本结构.md
