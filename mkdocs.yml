@@ -92,12 +92,12 @@ nav:
     - 图: DataStructures/图.md
   - 算法:
     - 算法: Algorithms/index.md
-  - Unix:
-    - Unix: Unix/index.md
-  - Linux:
-    - Linux: Linux/index.md
-  - FreeBSD:
-    - FreeBSD: FreeBSD/index.md
+  - 操作系统:
+    - 操作系统: OperatingSystem/index.md
+  - 数据库:
+    - 数据库: DataBase/index.md
+  - 编译原理:
+    - 编译原理: CompilerConstructionPrinciples/index.md
   - Python:
     - Python: Python/index.md
   - OpenGL:
