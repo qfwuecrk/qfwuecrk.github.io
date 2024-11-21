@@ -90,6 +90,8 @@ nav:
     - 串、数组和广义表: DataStructures/串、数组和广义表.md
     - 树和二叉树: DataStructures/树和二叉树.md
     - 图: DataStructures/图.md
+    - 查找: DataStructures/查找.md
+    - 排序: DataStructures/排序.md
   - 算法:
     - 算法: Algorithms/index.md
   - 操作系统:
